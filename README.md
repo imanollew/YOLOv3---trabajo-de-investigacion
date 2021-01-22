@@ -15,3 +15,6 @@ openCV (3.4.2 o superior)
 Corriendo el script:
 
 python3 yolo.py --i imagen.jpeg
+
+
+Documento: https://github.com/imanollew/YOLOv3---trabajo-de-investigacion/blob/main/Trabajo%20de%20investigacion%20de%20YOLOv3.pdf
