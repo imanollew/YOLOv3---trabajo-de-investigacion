@@ -1,1 +1,1 @@
-# Trabajo de investigación sobre el algoritmo de vision computacional YOLOv3
+# Trabajo de investigación sobre YOLOv3
